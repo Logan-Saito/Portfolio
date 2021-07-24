@@ -1,2 +1,2 @@
 # Portfolio
-Samples of coding projects
+Samples of programming involved projects I've done
